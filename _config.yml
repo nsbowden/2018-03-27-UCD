@@ -2,7 +2,7 @@
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
 workshop_repo   : "https://github.com/nsbowden/2018-03-27-UCD"
-workshop_site   : "https://github.com/nsbowden"
+workshop_site   : "http://nsbowden.github.io/2018-03-27-UCD"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
